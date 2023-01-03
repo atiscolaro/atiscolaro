@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**atiscolaro/atiscolaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Atilio Scolaro. I am from Argentina and a great passionate about the IT world.
+I really enjoy learning by doing and participating in projects that challenge my abilities.
+I am a self-taught person, curious and eager to keep learning always.
 
-Here are some ideas to get you started:
+--------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi nombre es Atilio Scolaro. Soy de Argentina y un gran apasionado del mundo IT.
+Disfruto mucho aprender haciendo y participar en proyectos que desafien mis habilidades. 
+Soy persona autodidacta, curiosa y tengo muchas ganas de seguir aprendiendo siempre.
+
+TECHNOLOGIES 💻
+
+HTML - CSS - JAVASCRIPT - REACTJS - BOOTSTRAP - JAVA
+
+LINKEDIN PROFILE 💼
+
+https://www.linkedin.com/in/atilio-scolaro-b3a52a16b/
+
+

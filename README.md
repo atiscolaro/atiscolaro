@@ -12,7 +12,7 @@ Soy persona autodidacta, curiosa y tengo muchas ganas de seguir aprendiendo siem
 
 TECHNOLOGIES 💻
 
-HTML - CSS - JAVASCRIPT - REACTJS - BOOTSTRAP - JAVA
+HTML - CSS - JAVASCRIPT - REACTJS - BOOTSTRAP - JAVA - NODEJS
 
 LINKEDIN PROFILE 💼
 
